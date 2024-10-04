@@ -1,5 +1,9 @@
 def add(a, b):
+<<<<<<< HEAD
     return a + b + 1 #덧셈 결과에 1추가
+=======
+    return a + b + 2 #2를 추가했음
+>>>>>>> feature-branch2
 
 def subtract(a, b):
     return a - b
